@@ -4,6 +4,6 @@ This is version 2.0 and includes a better UI, error handling, and various qualit
 
 I have published the solution to create the installer. It is located in \MossApp\MossApp\Publish
 
-If you find any errors, please let me know: smay1@nwacc.edu
+If you find any errors, please let me know: sen.anuvab@gmail.com
 
-Thank you. 
+Thank you.   
